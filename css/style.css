@@ -1,0 +1,27 @@
+#heading{
+    background-color: aliceblue;
+    color: black;
+    font-size: 4.8rem;
+    font-style: italic;
+    text-align: center;
+    font-weight: 700;
+    border: 10rem;
+    border-color: blue;
+}
+.box1{
+    position: ;
+    top: 25px;
+    left: 25px;
+    width: 50px;
+    height: 50px;
+    background-color: rgb(96, 247, 36);
+
+}
+.box2{
+    position: absolute;
+    top: 50px;
+    left: 50px;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
